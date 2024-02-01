@@ -242,3 +242,4 @@ imgs/streetviews/12047/25, Schinkestraße, Reuterkiez, Neukölln, Berlin, 12047,
 .ipynb_checkpoints/sview_downloader-checkpoint.ipynb
 .vscode/PythonImportHelper-v2-Completion.json
 __pycache__/street_view.cpython-311.pyc
+*.png
