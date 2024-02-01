@@ -24,7 +24,7 @@ This repository contains a Python script for fetching and processing Street View
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/streetview-image-fetcher.git
+git clone https://github.com:vknaut/streetview_dl.git
 
 2. Install the required libraries:
 pip install Pillow requests
